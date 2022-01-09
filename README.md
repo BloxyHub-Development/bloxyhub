@@ -10,4 +10,6 @@ We (BloxyHub Development) do not make ourselves responsable for any damages expl
 Join our [Discord](https://dsc.gg/bloxyhub) and check the #script channel to get the key
 
 ## Script
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BloxyHub-Development/bloxyhub/main/script.lua", true))()
+```
